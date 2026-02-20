@@ -41,6 +41,9 @@ Seguime en 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-mansanta-05219a
 
 Here are some ideas to get you started:
 
+- Proyecto trabajados durante la graduación **Data Science**:
+- [Proyecto PreWork]: (https://github.com/4GeeksAcademy/GuilloMansa-MachineLearning)
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
