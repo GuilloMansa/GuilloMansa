@@ -1,7 +1,7 @@
 ## **Hi! I'm Guille Mansanta** (35) 👋
 
 
-### Soy Guillermo Mansanta, argentino, residiendo en Barcelona, España 📍
+### Soy Guillermo Mansanta, argentino residiendo en España (Barcelona) 📍
 - ℹ️ **Formación:** Data Analyst, Data Science y Machine Learning, con conocimientos en las áreas de Ingeniería Civil & E-Commerce. Además, con un gran background en deportes, especialmente, mis hobbies: tenis y fútbol.
    
 Mi **trayectoria** me ha permitido desarrollar una sólida capacidad analítica, resolución de problemas y pensamiento estructurado, habilidades que hoy potencio en mi camino hacia el mundo de los datos y la programación.
@@ -22,15 +22,16 @@ Mi **trayectoria** me ha permitido desarrollar una sólida capacidad analítica,
 
 
 ### 🎓 **Graduaciones** 🎓
-- Data Science & Machine Learning graduado de 4Geeks Academy - España 🇪🇸
-- Data Analyst graduado de Coderhouse Academia - Argentina 🇦🇷
-- Tennis Coach Nivel II graduado de International Tennis Federation por AAT - Argentina 🇦🇷
-- Ingenieria Civil hasta 4to año completo - Universidad Tecnologica - Argentina 🇦🇷
-- Bachillerato en Ciencias Naturales y Matematicas graduado de Colegio Lincoln - Argentina 🇦🇷
+- Data Science & Machine Learning graduado de 4Geeks Academy - España 
+- Data Analyst graduado de Coderhouse Academia - Argentina 
+- Tennis Coach Nivel II graduado de International Tennis Federation por AAT - Argentina 
+- Ingenieria Civil hasta 4to año completo - Universidad Tecnologica - Argentina 
+- Bachillerato en Ciencias Naturales y Matematicas graduado de Colegio Lincoln - Argentina 
 
 ## 
 
 🌍 Actualmente viviendo en Barcelona, España, abierto a roles internacionales.
+
 🗣 Idiomas: Español nativo - Inglés avanzado (C1)
 
 ##
