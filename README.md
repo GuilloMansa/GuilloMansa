@@ -31,7 +31,8 @@ Mi **trayectoria** me ha permitido desarrollar una sólida capacidad analítica,
 🌍 Actualmente viviendo en Barcelona, España, abierto a roles internacionales
 🗣 Idiomas: Español nativo - Inglés avanzado (C1)
 
-🔭 **Actualmente**, me encuentro optimizando el proyecto de fin de graduacion de Data Science, el cual se destaca por su sencillez, practicidad y utilidad. El mismo consta de una prediccion de demanda temporal de productos para un comercio de la industria farmacéutica (comercio familiar). El mismo, se gestionaba de manera experimental y empiricamente a modo de compra reactiva de mala manera, con quiebres de stock y faltantes. Con mis compañeros de proyecto hemos detectado esta problematica real y decidimos crear dicho proyecto. 
+🔭 **Actualmente**, me encuentro optimizando y aplicando el proyecto de fin de graduacion de Data Science, el cual se destaca por su sencillez, practicidad y utilidad. 
+- Mas info del proyecto >>> FarmaCast: predicción de demanda de productos farmacéuticos - 🔗 [Proyecto](https://github.com/4GeeksAcademy/GuilloMansa-MachineLearning/)
 
 - Proyecto FarmaCast:  
 
