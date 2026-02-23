@@ -31,26 +31,13 @@ Mi **trayectoria** me ha permitido desarrollar una sólida capacidad analítica,
 🌍 Actualmente viviendo en Barcelona, España, abierto a roles internacionales
 🗣 Idiomas: Español nativo - Inglés avanzado (C1)
 
-🔭 **Actualmente**, me encuentro optimizando y aplicando el proyecto de fin de graduacion de Data Science, el cual se destaca por su sencillez, practicidad y utilidad. 
-- Mas info del proyecto >>> FarmaCast: predicción de demanda de productos farmacéuticos - 🔗 [Proyecto](https://github.com/4GeeksAcademy/GuilloMansa-MachineLearning/)
-
-- Proyecto FarmaCast:  
-
+🔭 **Actualmente**, me encuentro optimizando y aplicando el proyecto de fin de graduacion de Data Science en un comercio familiar, el cual se destaca por su sencillez, practicidad y utilidad, dado que responde a un problema real de gestión de stock. 
+- Mas info del proyecto >>> FarmaCast: predicción de demanda de productos farmacéuticos - 🔗 [Proyecto](https://github.com/4GeeksAcademy/sp-ml-20-final-project-g2/)
+- Storytelling del proyecto final: 🔗 [Presentación](https://youtu.be/1WSnoJ5IGAY/)
 
 
-Seguime en 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-mansanta-05219a62/)
-
-Here are some ideas to get you started:
 
 - Proyecto trabajados durante la graduación **Data Science**:
-- [Proyecto PreWork]: (https://github.com/4GeeksAcademy/GuilloMansa-MachineLearning)
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱[Proyectos y modelos](https://github.com/4GeeksAcademy/GuilloMansa-MachineLearning)
+
+Seguime en 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-mansanta-05219a62/)
