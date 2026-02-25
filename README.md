@@ -1,7 +1,7 @@
-## **Hi! I'm Guille Mansanta** (35) 👋
+## **Hola, soy Guille Mansanta** (35) 👋
 
 
-### Soy Guillermo Mansanta, argentino residiendo en España (Barcelona) 📍
+### Nacido en la ciudad de La Plata, Buenos Aires, Argentina. Hoy residiendo en la hermosa ciudad de Barcelona (España) 📍
 - ℹ️ **Formación:** Data Analyst, Data Science y Machine Learning, con conocimientos en las áreas de Ingeniería Civil & E-Commerce. Además, con un gran background en deportes, especialmente, mis hobbies: tenis y fútbol.
    
 Mi **trayectoria** me ha permitido desarrollar una sólida capacidad analítica, resolución de problemas y pensamiento estructurado, habilidades que hoy potencio en mi camino hacia el mundo de los datos y la programación.
